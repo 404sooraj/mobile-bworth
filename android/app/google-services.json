@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "474644404915",
+    "project_id": "bworthgo-f921e",
+    "storage_bucket": "bworthgo-f921e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474644404915:android:5d9944ca60a99e9eef2ec6",
+        "android_client_info": {
+          "package_name": "com.BworthGo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474644404915-7fpo3p4ap1plishh44m7lh37f8br4025.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.BworthGo",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "474644404915-go5mppund2klg35ior512mcmpne70ocv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKD7OlW5wcG2h14vJavflgZp7hc9uTdf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474644404915-go5mppund2klg35ior512mcmpne70ocv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

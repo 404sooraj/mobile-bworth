@@ -1,0 +1,6 @@
+{
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "java.compile.nullAnalysis.mode": "automatic",
+  "cSpell.words": ["buildscript"],
+  "postman.settings.dotenv-detection-notification-visibility": false
+}

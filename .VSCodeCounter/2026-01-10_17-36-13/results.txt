@@ -1,0 +1,137 @@
+Date : 2026-01-10 17:36:13
+Directory : /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src
+Total : 82 files,  19636 codes, 2814 comments, 1156 blanks, all 23606 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| JavaScript     |         76 |     19,387 |      2,813 |      1,140 |     23,340 |
+| TypeScript JSX |          4 |        245 |          1 |         16 |        262 |
+| XML            |          1 |          3 |          0 |          0 |          3 |
+| JSON           |          1 |          1 |          0 |          0 |          1 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                       | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                          |         82 |     19,636 |      2,814 |      1,156 |     23,606 |
+| assets                                                                                                     |          1 |          3 |          0 |          0 |          3 |
+| colorr                                                                                                     |          1 |         32 |          0 |          2 |         34 |
+| components                                                                                                 |         15 |      1,413 |        356 |         93 |      1,862 |
+| components (Files)                                                                                         |         10 |        997 |        213 |         55 |      1,265 |
+| components/Brand                                                                                           |          3 |        169 |          1 |          7 |        177 |
+| components/ProductListCmp                                                                                  |          1 |        191 |          0 |         20 |        211 |
+| components/TopHorizontal                                                                                   |          1 |         56 |        142 |         11 |        209 |
+| custom                                                                                                     |          3 |        234 |          1 |         14 |        249 |
+| navigation                                                                                                 |          1 |        116 |          0 |          5 |        121 |
+| redux                                                                                                      |          5 |        273 |         72 |         43 |        388 |
+| redux (Files)                                                                                              |          1 |         22 |          0 |         14 |         36 |
+| redux/Api                                                                                                  |          2 |         95 |         62 |         11 |        168 |
+| redux/Api (Files)                                                                                          |          1 |         91 |         48 |          9 |        148 |
+| redux/Api/Constants                                                                                        |          1 |          4 |         14 |          2 |         20 |
+| redux/feature                                                                                              |          2 |        156 |         10 |         18 |        184 |
+| screen                                                                                                     |         56 |     17,565 |      2,385 |        999 |     20,949 |
+| screen (Files)                                                                                             |          8 |      2,255 |        157 |        142 |      2,554 |
+| screen/PayMentMethod                                                                                       |          1 |        661 |        113 |         20 |        794 |
+| screen/Products                                                                                            |          3 |        832 |         59 |         36 |        927 |
+| screen/TabScreen                                                                                           |          5 |      1,261 |        182 |         73 |      1,516 |
+| screen/auth                                                                                                |          9 |      1,037 |        252 |         94 |      1,383 |
+| screen/cart                                                                                                |          8 |      1,589 |        151 |        103 |      1,843 |
+| screen/common                                                                                              |         10 |      2,664 |        111 |        107 |      2,882 |
+| screen/profilesection                                                                                      |          7 |        846 |        132 |         51 |      1,029 |
+| screen/utils                                                                                               |          5 |      6,420 |      1,228 |        373 |      8,021 |
+| screen/utils (Files)                                                                                       |          3 |      6,370 |      1,220 |        362 |      7,952 |
+| screen/utils/SocialSignin                                                                                  |          1 |         39 |          8 |          9 |         56 |
+| screen/utils/responsive                                                                                    |          1 |         11 |          0 |          2 |         13 |
++------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                                                                   | language       | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/assets/bwc.svg                                       | XML            |          3 |          0 |          0 |          3 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/colorr/colors.js                                     | JavaScript     |         32 |          0 |          2 |         34 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/components/AssetExample.js                           | JavaScript     |         29 |          0 |          3 |         32 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/components/Brand/Favorioties.js                      | JavaScript     |         78 |          1 |          2 |         81 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/components/Brand/Horizontal.js                       | JavaScript     |         36 |          0 |          2 |         38 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/components/Brand/Offers.js                           | JavaScript     |         55 |          0 |          3 |         58 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/components/Button.js                                 | JavaScript     |         84 |          0 |          2 |         86 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/components/DashBordHeader.js                         | JavaScript     |        153 |         19 |          4 |        176 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/components/Header.js                                 | JavaScript     |         46 |          1 |          3 |         50 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/components/MoreProductSection.js                     | JavaScript     |        112 |          5 |          4 |        121 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/components/ProductListCmp/index.js                   | JavaScript     |        191 |          0 |         20 |        211 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/components/TopHorizontal/index.js                    | JavaScript     |         56 |        142 |         11 |        209 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/components/bestOffers.js                             | JavaScript     |         95 |         52 |          5 |        152 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/components/bottomImageBar.js                         | JavaScript     |        100 |          6 |         11 |        117 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/components/brand.js                                  | JavaScript     |         99 |          1 |          4 |        104 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/components/brand2.js                                 | JavaScript     |        122 |        115 |         15 |        252 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/components/newCollection.js                          | JavaScript     |        157 |         14 |          4 |        175 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/custom/Text.tsx                                      | TypeScript JSX |         58 |          0 |          4 |         62 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/custom/customToast.tsx                               | TypeScript JSX |        133 |          0 |          6 |        139 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/custom/index.tsx                                     | TypeScript JSX |         43 |          1 |          4 |         48 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/navigation/DashboardScreen.js                        | JavaScript     |        116 |          0 |          5 |        121 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/redux/Api/Constants/index.js                         | JavaScript     |          4 |         14 |          2 |         20 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/redux/Api/index.js                                   | JavaScript     |         91 |         48 |          9 |        148 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/redux/Store.js                                       | JavaScript     |         22 |          0 |         14 |         36 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/redux/feature/authSlice.js                           | JavaScript     |         86 |         10 |         16 |        112 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/redux/feature/featuresSlice.js                       | JavaScript     |         70 |          0 |          2 |         72 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/BrandScreen.js                                | JavaScript     |         42 |          0 |          3 |         45 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/Cancellation.js                               | JavaScript     |        672 |         52 |         31 |        755 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/PayMentMethod/index.js                        | JavaScript     |        661 |        113 |         20 |        794 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/Privacy.js                                    | JavaScript     |        372 |          8 |         55 |        435 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/Products/Favoriout.js                         | JavaScript     |        120 |         38 |          6 |        164 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/Products/ProductDetails.js                    | JavaScript     |        584 |         20 |         18 |        622 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/Products/index.js                             | JavaScript     |        128 |          1 |         12 |        141 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/RazorpayTest.js                               | JavaScript     |         55 |          0 |          4 |         59 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/Sell.js                                       | JavaScript     |        182 |          4 |          8 |        194 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/TabScreen/Brands.js                           | JavaScript     |        125 |          4 |          5 |        134 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/TabScreen/Cashbacks.js                        | JavaScript     |        155 |          0 |          9 |        164 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/TabScreen/Home.js                             | JavaScript     |        120 |         10 |         16 |        146 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/TabScreen/Profile.js                          | JavaScript     |        499 |        150 |         21 |        670 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/TabScreen/cartScreen.js                       | JavaScript     |        362 |         18 |         22 |        402 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/addAdress.js                                  | JavaScript     |        611 |         60 |         17 |        688 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/auth/ChangePassword.js                        | JavaScript     |         69 |          0 |          3 |         72 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/auth/EnableTwoFactorAuthentication.js         | JavaScript     |         54 |          0 |          8 |         62 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/auth/EnableTwoFactorAuthenticationLogin.js    | JavaScript     |         62 |          0 |          9 |         71 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/auth/HomeScreen.js                            | JavaScript     |         80 |          3 |          8 |         91 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/auth/LoginScreen.js                           | JavaScript     |         63 |         21 |          6 |         90 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/auth/OTPVerification.js                       | JavaScript     |        293 |         78 |         25 |        396 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/auth/PhoneVerification.js                     | JavaScript     |        322 |        148 |         27 |        497 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/auth/RegisterScreen.js                        | JavaScript     |         62 |          2 |          6 |         70 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/auth/SplashScreen.js                          | JavaScript     |         32 |          0 |          2 |         34 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/cart/MyOrders.js                              | JavaScript     |        299 |         29 |         13 |        341 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/cart/MyOrders1.js                             | JavaScript     |        173 |          1 |         30 |        204 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/cart/PaymentMethod.js                         | JavaScript     |        257 |          0 |          1 |        258 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/cart/PaymentMethodBlur.js                     | JavaScript     |        113 |          4 |          6 |        123 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/cart/cartCheckout.js                          | JavaScript     |        337 |         19 |         17 |        373 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/cart/cartOrderConfirm.js                      | JavaScript     |         73 |         73 |          8 |        154 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/cart/cartOrderTrack.js                        | JavaScript     |        165 |          3 |          7 |        175 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/cart/locfour.js                               | JavaScript     |        172 |         22 |         21 |        215 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/common/PinCode.js                             | JavaScript     |        286 |          8 |          7 |        301 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/common/Token.js                               | JavaScript     |         79 |         15 |          3 |         97 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/common/TokenTransaction.js                    | JavaScript     |        123 |          6 |         13 |        142 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/common/currentLocation.js                     | JavaScript     |        486 |          7 |         21 |        514 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/common/locfour.js                             | JavaScript     |        429 |          2 |         16 |        447 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/common/locone.js                              | JavaScript     |        356 |          2 |         13 |        371 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/common/locthree.js                            | JavaScript     |        572 |          4 |         14 |        590 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/common/loctwo.js                              | JavaScript     |         87 |          0 |          3 |         90 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/common/pickup.js                              | JavaScript     |        194 |         65 |         16 |        275 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/common/renderInputField.js                    | JavaScript     |         52 |          2 |          1 |         55 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/const data=[{"awb_number": "315942815488.json | JSON           |          1 |          0 |          0 |          1 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/profilesection/BuyBackPolicies.js             | JavaScript     |        103 |          0 |          6 |        109 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/profilesection/FAQ1.js                        | JavaScript     |        120 |         41 |          3 |        164 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/profilesection/LetUsKnow.js                   | JavaScript     |         84 |          4 |         12 |        100 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/profilesection/PrivacyPolicy.js               | JavaScript     |         95 |          0 |          8 |        103 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/profilesection/ProfileSettings.js             | JavaScript     |         75 |          0 |          1 |         76 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/profilesection/Settings.js                    | JavaScript     |        339 |         87 |         18 |        444 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/profilesection/TokenPolicies.js               | JavaScript     |         30 |          0 |          3 |         33 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/utils/Appt.js                                 | JavaScript     |      5,956 |      1,199 |        349 |      7,504 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/utils/SocialSignin/index.js                   | JavaScript     |         39 |          8 |          9 |         56 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/utils/Styles.js                               | JavaScript     |        350 |         21 |          7 |        378 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/utils/responsive/index.tsx                    | TypeScript JSX |         11 |          0 |          2 |         13 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/utils/storageService.js                       | JavaScript     |         64 |          0 |          6 |         70 |
+| /Users/aryansaini/FOLDER/My Projects/Bworth/MyPr1/src/screen/wardrobe.js                                   | JavaScript     |        320 |         33 |         24 |        377 |
+| Total                                                                                                      |                |     19,636 |      2,814 |      1,156 |     23,606 |
++------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
